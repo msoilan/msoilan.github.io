@@ -4,7 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Testing local commit of index.html." />
+    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Testing local commit of index.html.">
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar-ms.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/blog-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/icon-app.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/icon-design.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/icon-dev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/icon-photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/icon-quote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-1-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-2-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-3-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-4-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-5-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo-6-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/my-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/images/project-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/website-demo-image/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/website-demo-image/desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcard-personal-portfolio/website-demo-image/mobile.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +68,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2cx5qlWjsvrdHVQf2mtZx3TdpZq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,10 +80,13 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mario/OneDrive - Universidade de Vigo/1. Proyectos/[A] 100 days of Python/Day 83 - Personal Website"
+    "last_opened_file_path": "C:/Users/mario/OneDrive - Universidade de Vigo/1. Proyectos/[A] 100 days of Python/Day 83 - Personal Website/assets/images"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\templates" />
     </key>
@@ -60,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709041615228</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Testing local commit of index.html.">
+      <created>1709043135067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709043135067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
