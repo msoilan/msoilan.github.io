@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Socials and about me added">
-      <change afterPath="$PROJECT_DIR$/assets/images/ai_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cloud_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon-orcid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/remote-sensing-satellite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/road_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/scholar_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/scholar_logo_mc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/teaching_icon.png" afterDir="false" />
+    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="'What I'm doing' Updated. Irrelevant sections from 'About' removed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -128,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709130257771</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="'What I'm doing' Updated. Irrelevant sections from 'About' removed.">
+      <option name="closed" value="true" />
+      <created>1717057454830</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717057454830</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +147,7 @@
     <MESSAGE value="Personal info bar and add .gitignore" />
     <MESSAGE value="Warn that site is under construction." />
     <MESSAGE value="Socials and about me added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Socials and about me added" />
+    <MESSAGE value="'What I'm doing' Updated. Irrelevant sections from 'About' removed." />
+    <option name="LAST_COMMIT_MESSAGE" value="'What I'm doing' Updated. Irrelevant sections from 'About' removed." />
   </component>
 </project>
