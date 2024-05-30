@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Warn that site is under construction.">
+    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Socials and about me added">
+      <change afterPath="$PROJECT_DIR$/assets/images/ai_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cloud_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/icon-orcid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/orcid_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/remote-sensing-satellite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/road_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/scholar_logo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/scholar_logo_mc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/teaching_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,18 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mario/OneDrive - Universidade de Vigo/1. Proyectos/[A] 100 days of Python/Day 83 - Personal Website/assets/images&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/mario/OneDrive - Universidade de Vigo/1. Proyectos/[A] 100 days of Python/Day 83 - Personal Website"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\assets\images" />
       <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\templates" />
     </key>
   </component>
@@ -117,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709046501710</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Socials and about me added">
+      <created>1709130257771</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709130257771</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +146,7 @@
     <MESSAGE value="Testing local commit of index.html." />
     <MESSAGE value="Personal info bar and add .gitignore" />
     <MESSAGE value="Warn that site is under construction." />
-    <option name="LAST_COMMIT_MESSAGE" value="Warn that site is under construction." />
+    <MESSAGE value="Socials and about me added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Socials and about me added" />
   </component>
 </project>
