@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="'What I'm doing' Updated. Irrelevant sections from 'About' removed.">
-      <change afterPath="$PROJECT_DIR$/assets/images/eth_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tu-delft-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/ucd_logo.png" afterDir="false" />
+    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="Resume added.">
+      <change afterPath="$PROJECT_DIR$/assets/images/AVATAR_SUM4Re_RGB_W BG.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -140,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717058420730</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Resume added.">
+      <option name="closed" value="true" />
+      <created>1717403791583</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717403791583</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +166,7 @@
     <MESSAGE value="Warn that site is under construction." />
     <MESSAGE value="Socials and about me added" />
     <MESSAGE value="'What I'm doing' Updated. Irrelevant sections from 'About' removed." />
-    <option name="LAST_COMMIT_MESSAGE" value="'What I'm doing' Updated. Irrelevant sections from 'About' removed." />
+    <MESSAGE value="Resume added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resume added." />
   </component>
 </project>
