@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="V1.0">
+    <list default="true" id="50a857ec-b664-49d1-8ef5-ef09c14d8121" name="Changes" comment="V1.0 - Removed 'Site under construction'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2cx5qlWjsvrdHVQf2mtZx3TdpZq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,6 +49,13 @@
       <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\assets\images" />
       <recent name="C:\Users\mario\OneDrive - Universidade de Vigo\1. Proyectos\[A] 100 days of Python\Day 83 - Personal Website\templates" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -159,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717507776178</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="V1.0 - Removed 'Site under construction'">
+      <option name="closed" value="true" />
+      <created>1732277160748</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732277160748</updated>
+    </task>
+    <task id="LOCAL-00016" summary="V1.0 - Removed 'Site under construction'">
+      <option name="closed" value="true" />
+      <created>1732277242302</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732277242302</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +208,7 @@
     <MESSAGE value="Resume added." />
     <MESSAGE value="Projects tab structured. Pending to complete." />
     <MESSAGE value="V1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
+    <MESSAGE value="V1.0 - Removed 'Site under construction'" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.0 - Removed 'Site under construction'" />
   </component>
 </project>
